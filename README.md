@@ -12,9 +12,9 @@ Este é um projeto que permite aos usuários do sistema acessar informações de
 ## Como usar
 
 1. Clone o repositório para sua máquina local:
-
+ ```
 git clone https://github.com/DionesxD/Sistema-de-Consulta-CEP.git
-
+ ```
 2. Abra o projeto em seu ambiente de desenvolvimento Delphi.
 
 3. Compile e execute o projeto.
