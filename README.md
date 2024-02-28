@@ -18,14 +18,17 @@ git clone https://github.com/DionesxD/Sistema-de-Consulta-CEP.git
 2. Abra o projeto em seu ambiente de desenvolvimento Delphi.
 
 3. Compile e execute o projeto.
+   
    ![image](https://github.com/DionesxD/Sistema-de-Consulta-CEP/assets/110851857/ffd8d44b-3782-43c8-a362-e2db4c28e545)
 
 
 5. Na interface do usuário, digite o CEP desejado no campo de entrada e clique em "Consultar" ou pressione Enter.
+   
    ![image](https://github.com/DionesxD/Sistema-de-Consulta-CEP/assets/110851857/f6ec3f1e-3bab-412c-a051-98f0a32bf2bd)
 
 
 7. Aguarde a resposta da API, que será exibida na interface do usuário.
+   
    ![image](https://github.com/DionesxD/Sistema-de-Consulta-CEP/assets/110851857/bc269bd0-0980-4163-bfe7-0bb842ef6927)
 
 
